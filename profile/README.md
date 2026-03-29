@@ -5,7 +5,7 @@
 
 ### Market Intelligence API
 
-**Recession probability scoring. Capital rotation analysis. 816K+ economic indicators.**<br>
+**Recession probability scoring. Capital rotation analysis. Real-time economic intelligence.**<br>
 Built for AI agents, developers, and financial applications.
 
 [Website](https://bullrundata.com) &nbsp;&bull;&nbsp; [API Docs](https://bullrundata.com/docs) &nbsp;&bull;&nbsp; [Get API Key](https://bullrundata.com/login)
@@ -31,7 +31,7 @@ curl -H "X-API-Key: your-key" https://api.bullrundata.com/v1/recession/probabili
 | **Recession Intelligence** | 7 | Probability scoring, Fed stance, market regime, Sahm Rule, confirmation layer |
 | **Capital Rotation** | 4 | Risk-on/risk-off composite (-100 to +100), divergence alerts, regime matching |
 | **Investment Calculators** | 2 | BRRRR deal scoring (0-100), rental property analysis (cap rate, DSCR, cash flow) |
-| **Economic Data (FRED)** | 4 | Interest rates, inflation, 816K+ series pass-through |
+| **Economic Indicators** | 4 | Interest rates, inflation, yields, and more |
 | **Market Analysis** | 5 | Employment, housing, yield curve, market sentiment, historical trends |
 
 ### What Makes Us Different
